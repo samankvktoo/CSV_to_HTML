@@ -1,0 +1,11 @@
+POCid;pocname;description;link
+1;"POC 1";"QAM reduction 23Mhz MECH";NULL
+2;"POC 2";"DS Carrier switch off SCHA";NULL
+3;"POC 3";"OFDM Profile switches opkuis";NULL
+4;"POC 4";"2de OFDM carrier - 2de batch (49n)";NULL
+5;"POC 4_2";"2de OFDM Carrier - Trial";NULL
+6;"POC 4_3";"2de OFDM Carrier - 1ste batch";NULL
+7;"POC 5";"SC QAM Carriers";NULL
+8;"POC 6";"85Mhz Activering";NULL
+9;"POC 7";"2de OFDM carrier - 2de batch 925Mhz (83n)";NULL
+10;"POC 7_2";"2de OFDM carrier - 2de batch 980Mhz";NULL
